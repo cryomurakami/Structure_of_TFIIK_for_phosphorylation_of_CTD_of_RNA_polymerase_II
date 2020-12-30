@@ -1,0 +1,25 @@
+Kin28 kmeans_d2_r3_k1_m500/cluster.0/ average centroid distance 7.464044389892182
+Kin28 kmeans_d2_r3_k1_m500/cluster.0/ centroid index 150
+Kin28 kmeans_d2_r3_k1_m500/cluster.0/ centroid rmf name ('kmeans_d2_r3_k1_m500/cluster.0/313.rmf3', 0)
+Kin28 kmeans_d2_r3_k1_m500/cluster.0/ median centroid distance  6.9273526464087976
+Kin28 kmeans_d2_r3_k1_m500/cluster.0/ kmeans_d2_r3_k1_m500/cluster.0/ average pairwise distance 10.233311142620412
+Ccl1 kmeans_d2_r3_k1_m500/cluster.0/ average centroid distance 11.023517441271796
+Ccl1 kmeans_d2_r3_k1_m500/cluster.0/ centroid index 234
+Ccl1 kmeans_d2_r3_k1_m500/cluster.0/ centroid rmf name ('kmeans_d2_r3_k1_m500/cluster.0/390.rmf3', 0)
+Ccl1 kmeans_d2_r3_k1_m500/cluster.0/ median centroid distance  10.432762175073222
+Ccl1 kmeans_d2_r3_k1_m500/cluster.0/ kmeans_d2_r3_k1_m500/cluster.0/ average pairwise distance 14.145926041510865
+Tfb3 kmeans_d2_r3_k1_m500/cluster.0/ average centroid distance 8.176525487953729
+Tfb3 kmeans_d2_r3_k1_m500/cluster.0/ centroid index 279
+Tfb3 kmeans_d2_r3_k1_m500/cluster.0/ centroid rmf name ('kmeans_d2_r3_k1_m500/cluster.0/91.rmf3', 0)
+Tfb3 kmeans_d2_r3_k1_m500/cluster.0/ median centroid distance  8.109552812621729
+Tfb3 kmeans_d2_r3_k1_m500/cluster.0/ kmeans_d2_r3_k1_m500/cluster.0/ average pairwise distance 9.746593653506242
+TFIIK kmeans_d2_r3_k1_m500/cluster.0/ average centroid distance 9.498892985785764
+TFIIK kmeans_d2_r3_k1_m500/cluster.0/ centroid index 234
+TFIIK kmeans_d2_r3_k1_m500/cluster.0/ centroid rmf name ('kmeans_d2_r3_k1_m500/cluster.0/390.rmf3', 0)
+TFIIK kmeans_d2_r3_k1_m500/cluster.0/ median centroid distance  9.065827199108373
+TFIIK kmeans_d2_r3_k1_m500/cluster.0/ kmeans_d2_r3_k1_m500/cluster.0/ average pairwise distance 11.884323317185807
+All kmeans_d2_r3_k1_m500/cluster.0/ average centroid distance 5.15861633528399
+All kmeans_d2_r3_k1_m500/cluster.0/ centroid index 22
+All kmeans_d2_r3_k1_m500/cluster.0/ centroid rmf name ('kmeans_d2_r3_k1_m500/cluster.0/319.rmf3', 0)
+All kmeans_d2_r3_k1_m500/cluster.0/ median centroid distance  5.137499149352649
+All kmeans_d2_r3_k1_m500/cluster.0/ kmeans_d2_r3_k1_m500/cluster.0/ average pairwise distance 5.76120649362018
